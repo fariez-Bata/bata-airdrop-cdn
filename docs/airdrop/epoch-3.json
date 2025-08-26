@@ -1,6 +1,6 @@
 {
   "epoch": 3,
-  "root": "0xb55e14a58a75235b96fec86f223a9bf5eb51bf3ca38844124620f2d15fc9e107",
+  "root": "0x83106e54b2793858d22e015c82f9710d919902e3b9742c97e41ebd0e352d0c54",
   "leafEncoding": [
     "address",
     "bytes32",
@@ -15,6 +15,16 @@
       "amount": "25000000000000000000",
       "task": "retweet",
       "proof": [
+        "0x6cca14fd1196faa618afaf01be263d6d6d5d7a9844c992042ee9726fa6638ad5",
+        "0x7bfcfa8da47295c59f1de2b27a3421ee0d51f7fd44cf71451f89808d6b8eb748"
+      ]
+    },
+    {
+      "address": "0x998621C069314F4B703Ddb3925501eCfbE41221a",
+      "amount": "25000000000000000000",
+      "task": "retweet2",
+      "proof": [
+        "0xe363d67ea304788a49cdd21191d0ab93dff8eb244892582649484557e9749e15",
         "0x7bfcfa8da47295c59f1de2b27a3421ee0d51f7fd44cf71451f89808d6b8eb748"
       ]
     },
@@ -23,7 +33,7 @@
       "amount": "25000000000000000000",
       "task": "retweet",
       "proof": [
-        "0xe363d67ea304788a49cdd21191d0ab93dff8eb244892582649484557e9749e15"
+        "0x281921ebdb1cfccbc0b3ea62d47fa100afc53d054c371c5b62afeda3dda0ae82"
       ]
     }
   ]
