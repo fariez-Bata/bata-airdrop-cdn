@@ -1,0 +1,27 @@
+{
+  "epoch": 3,
+  "root": "0x5dee00b0aa8e41c5fb19d7a86defb0b53fe6dfcfa15df501dce5233aac134587",
+  "leafEncoding": [
+    "address",
+    "uint256",
+    "uint256"
+  ],
+  "token": "BATA",
+  "decimals": 18,
+  "entries": [
+    {
+      "address": "0x998621C069314F4B703Ddb3925501eCfbE41221a",
+      "amount": "25000000000000000000",
+      "proof": [
+        "0xfd4294e1a7cb60f6e740f92ad9853fd328a6e5e520925164850c6924c592b172"
+      ]
+    },
+    {
+      "address": "0xA1B2C3D4e5f678901234567890AbcdeFAbcdEF01",
+      "amount": "25000000000000000000",
+      "proof": [
+        "0x638efac3412397faf15b0f8863ce0e39f7e7e6a6288b2de33ddf4231fcd10301"
+      ]
+    }
+  ]
+}
