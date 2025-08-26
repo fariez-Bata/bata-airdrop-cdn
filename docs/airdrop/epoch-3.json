@@ -1,6 +1,6 @@
 {
   "epoch": 3,
-  "root": "0x50283df7700b695952cd970a88331678db8307dd444434bc8108598ed257b5b1",
+  "root": "0xd0d5985e84f84481b24dc7da88f44896c8b4efc91d2aad009e05e73e8360d0e7",
   "leafEncoding": [
     "address",
     "bytes32",
@@ -11,17 +11,17 @@
   "decimals": 18,
   "entries": [
     {
-      "address": "0xA1B2C3D4e5f678901234567890AbcdeFAbcdEF01",
-      "task": "retweet",
-      "proof": [
-        "0xd46d39962193e8ceee026a73c66e90bb6c0b0e1f5880b3734f8edbc7de1ba305"
-      ]
-    },
-    {
       "address": "0x998621C069314F4B703Ddb3925501eCfbE41221a",
       "task": "retweet",
       "proof": [
-        "0x46abf1751e65c619c62fa49bad53cfc7b16729cc5eae37e767c81e4fc5f26990"
+        "0x6a59b1fef5d4004e23c8861266a6ad3987fd3038ac2cc59adeffdaaea2c0d819"
+      ]
+    },
+    {
+      "address": "0xA1B2C3D4e5f678901234567890AbcdeFAbcdEF01",
+      "task": "retweet",
+      "proof": [
+        "0x9b3a9a774be09b59b44d01a283217f90504cafe06ddb0a2cbd962c0ef0e0b2dd"
       ]
     }
   ]
