@@ -1,6 +1,6 @@
 {
   "epoch": 3,
-  "root": "0x83106e54b2793858d22e015c82f9710d919902e3b9742c97e41ebd0e352d0c54",
+  "root": "0x2a8db73c8e3839960498c6fe28601d1aa8468fa146ed6a9f7d614f8a25ab42fa",
   "leafEncoding": [
     "address",
     "bytes32",
@@ -11,12 +11,21 @@
   "decimals": 18,
   "entries": [
     {
+      "address": "0x29CDFdA855a22E499ac9e81d53371B16810FD584",
+      "amount": "25000000000000000000",
+      "task": "owner_test",
+      "proof": [
+        "0xe363d67ea304788a49cdd21191d0ab93dff8eb244892582649484557e9749e15",
+        "0x5ff6700df7d067d4a415fbe74eeb16e57d4b901046a6b970501aa49d18c329cd"
+      ]
+    },
+    {
       "address": "0x998621C069314F4B703Ddb3925501eCfbE41221a",
       "amount": "25000000000000000000",
       "task": "retweet",
       "proof": [
-        "0x6cca14fd1196faa618afaf01be263d6d6d5d7a9844c992042ee9726fa6638ad5",
-        "0x7bfcfa8da47295c59f1de2b27a3421ee0d51f7fd44cf71451f89808d6b8eb748"
+        "0x2f589a9efe5b849598ab611cd8921ee991051e8a8297b6e3d586d5b84a726dac",
+        "0x5ff6700df7d067d4a415fbe74eeb16e57d4b901046a6b970501aa49d18c329cd"
       ]
     },
     {
@@ -24,8 +33,8 @@
       "amount": "25000000000000000000",
       "task": "retweet2",
       "proof": [
-        "0xe363d67ea304788a49cdd21191d0ab93dff8eb244892582649484557e9749e15",
-        "0x7bfcfa8da47295c59f1de2b27a3421ee0d51f7fd44cf71451f89808d6b8eb748"
+        "0x7bfcfa8da47295c59f1de2b27a3421ee0d51f7fd44cf71451f89808d6b8eb748",
+        "0xf155a39fef673fbe73629b1c1d75c0487a55acf585c9f9c4e43786916e470ced"
       ]
     },
     {
@@ -33,7 +42,8 @@
       "amount": "25000000000000000000",
       "task": "retweet",
       "proof": [
-        "0x281921ebdb1cfccbc0b3ea62d47fa100afc53d054c371c5b62afeda3dda0ae82"
+        "0x6cca14fd1196faa618afaf01be263d6d6d5d7a9844c992042ee9726fa6638ad5",
+        "0xf155a39fef673fbe73629b1c1d75c0487a55acf585c9f9c4e43786916e470ced"
       ]
     }
   ]
