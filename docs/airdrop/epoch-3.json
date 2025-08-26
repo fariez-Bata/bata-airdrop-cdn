@@ -1,26 +1,27 @@
 {
   "epoch": 3,
-  "root": "0x5dee00b0aa8e41c5fb19d7a86defb0b53fe6dfcfa15df501dce5233aac134587",
+  "root": "0x50283df7700b695952cd970a88331678db8307dd444434bc8108598ed257b5b1",
   "leafEncoding": [
     "address",
-    "uint256",
+    "bytes32",
     "uint256"
   ],
+  "taskEncoding": "keccak256(bytes(task))",
   "token": "BATA",
   "decimals": 18,
   "entries": [
     {
-      "address": "0x998621C069314F4B703Ddb3925501eCfbE41221a",
-      "amount": "25000000000000000000",
+      "address": "0xA1B2C3D4e5f678901234567890AbcdeFAbcdEF01",
+      "task": "retweet",
       "proof": [
-        "0xfd4294e1a7cb60f6e740f92ad9853fd328a6e5e520925164850c6924c592b172"
+        "0xd46d39962193e8ceee026a73c66e90bb6c0b0e1f5880b3734f8edbc7de1ba305"
       ]
     },
     {
-      "address": "0xA1B2C3D4e5f678901234567890AbcdeFAbcdEF01",
-      "amount": "25000000000000000000",
+      "address": "0x998621C069314F4B703Ddb3925501eCfbE41221a",
+      "task": "retweet",
       "proof": [
-        "0x638efac3412397faf15b0f8863ce0e39f7e7e6a6288b2de33ddf4231fcd10301"
+        "0x46abf1751e65c619c62fa49bad53cfc7b16729cc5eae37e767c81e4fc5f26990"
       ]
     }
   ]
